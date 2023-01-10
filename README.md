@@ -39,8 +39,8 @@ Milo R, Shen-Orr S, Itzkovitz S, Kashtan N, Chklovskii D, Alon U. Network motifs
   - mfinder1.2/motifDictionary
     - Please refer to this dictionary about various motif structures and their id
     
-- **data/[my_dataset_name]**
-  - inputs should be manually placed here under dataset directory as **data/[my_dataset_name]**. There are 2 options of input file format. Please refer to **src/mfinder_python.ipynb** for details.
+- **data**
+  - inputs should be manually placed here under dataset directory as **data/[my_dataset_name]/[my_inputs]**. There are 2 options of input file format. Please refer to **src/mfinder_python.ipynb** for details.
   - **option 1. dictionary of NetworkX graph objects** : data/[my_dataset_name]/[my_dictionary_name].pkl
   - **option 2. directory of .gexf files** : data/[my_dataset_name]/gexf/[my_gexf_name].gexf
   
