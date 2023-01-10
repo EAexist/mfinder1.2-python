@@ -14,7 +14,7 @@ It has codes for the following steps and link them as a pipleline to analyze mot
 
 
 ## Reference 
-Every resources of directory mfinder1.2 references following work of Milo R. et al.
+Every resources of directory mfinder1.2 is a clone of following work of Milo R. et al.
 
 https://www.weizmann.ac.il/mcb/UriAlon/download/network-motif-software
 
