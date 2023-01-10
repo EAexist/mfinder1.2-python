@@ -34,6 +34,8 @@ Milo R, Shen-Orr S, Itzkovitz S, Kashtan N, Chklovskii D, Alon U. Network motifs
 
 - **mfinder1.2**
   - clone of original mfinder1.2 (https://www.weizmann.ac.il/mcb/UriAlon/download/network-motif-software)
+  - readme.txt
+    - Please refer to this readme file about details of mfinder program.
   - mfinder1.2/mfinderManual.pdf
     - Please refer to this manual about input/output format, arguement options and other details about mfinder program.
   - mfinder1.2/motifDictionary
