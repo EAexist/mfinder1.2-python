@@ -1,0 +1,95 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: ../input/culturalDNA_2022/7.6_d1intro.txt
+	Network type: Directed
+	Num of Nodes: 29 Num of Edges: 367
+	Num of Nodes with edges: 26
+	Maximal out degree (out-hub) : 23
+	Maximal in degree (in-hub) : 23
+	Roots num: 0 Leaves num: 0
+	Single Edges num: 29 Mutual Edges num: 146
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 1808
+	Number of random networks generated : 100
+	Random networks generation method: Switches
+	Num of Switches range: 100.0-200.0, Success switches Ratio:0.118+-0.00
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 3 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+46	218	100.3+-12.0	9.83	0.000	5	120.49
+
+0 1 1 
+1 0 1 
+0 0 0 
+
+78	578	220.1+-33.2	10.77	0.000	7	319.45
+
+0 1 1 
+1 0 0 
+1 0 0 
+
+238	347	199.5+-17.1	8.61	0.000	8	191.78
+
+0 1 1 
+1 0 1 
+1 1 0 
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	18	97.2+-11.0	-7.24	1.000	9.95	3
+
+12	27	199.8+-18.8	-9.20	1.000	14.92	2
+
+14	131	258.0+-16.6	-7.65	1.000	72.22	5
+
+36	213	80.6+-10.3	12.88	0.000	117.72	1
+
+38	32	115.3+-22.3	-3.74	1.000	17.50	1
+
+46	218	100.3+-12.0	9.83	0.000	120.49	5
+
+74	72	221.7+-15.9	-9.43	1.000	39.79	5
+
+78	578	220.1+-33.2	10.77	0.000	319.45	7
+
+98	0	47.5+-10.7	-4.46	1.000	0.00	0
+
+102	4	204.2+-22.7	-8.81	1.000	2.21	2
+
+108	11	85.6+-12.2	-6.11	1.000	6.08	4
+
+110	147	431.7+-18.0	-15.81	1.000	81.25	5
+
+238	347	199.5+-17.1	8.61	0.000	191.78	8
+
+
+
+ (Application total runtime was:    4.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.0 seconds.)

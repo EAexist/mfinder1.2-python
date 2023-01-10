@@ -1,0 +1,89 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: ../input/culturalDNA_2022/7.6_d1lec1.txt
+	Network type: Directed
+	Num of Nodes: 28 Num of Edges: 257
+	Num of Nodes with edges: 27
+	Maximal out degree (out-hub) : 23
+	Maximal in degree (in-hub) : 22
+	Roots num: 0 Leaves num: 0
+	Single Edges num: 29 Mutual Edges num: 98
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 1174
+	Number of random networks generated : 100
+	Random networks generation method: Switches
+	Num of Switches range: 100.0-200.0, Success switches Ratio:0.139+-0.00
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 2 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+78	446	176.6+-25.6	10.53	0.000	6	379.31
+
+0 1 1 
+1 0 0 
+1 0 0 
+
+238	133	87.5+-10.4	4.38	0.000	6	113.11
+
+0 1 1 
+1 0 1 
+1 1 0 
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	29	94.6+-11.0	-5.98	1.000	24.66	3
+
+12	24	180.7+-20.4	-7.72	1.000	19.99	3
+
+14	139	221.9+-16.6	-4.99	1.000	118.50	6
+
+36	63	73.4+-9.8	-1.06	0.840	53.58	2
+
+38	32	74.2+-15.9	-2.66	1.000	27.21	2
+
+46	116	53.9+-7.9	7.77	0.000	98.23	3
+
+74	64	172.6+-14.3	-7.62	1.000	54.43	3
+
+78	446	176.6+-25.6	10.53	0.000	379.31	6
+
+98	0	28.4+-6.5	-4.41	1.000	0.00	0
+
+102	2	102.4+-12.9	-7.79	1.000	1.70	1
+
+108	14	40.3+-5.9	-4.49	1.000	11.91	1
+
+110	93	219.3+-10.6	-11.96	1.000	79.09	4
+
+238	133	87.5+-10.4	4.38	0.000	113.11	6
+
+
+
+ (Application total runtime was:    2.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.0 seconds.)

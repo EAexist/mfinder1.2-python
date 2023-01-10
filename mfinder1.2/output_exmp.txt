@@ -1,0 +1,83 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.10
+
+MOTIF FINDER RESULTS:
+
+	Network name: network_exmp.txt
+	Network type: Directed
+	Num of Nodes: 16 Num of Edges: 19
+	Num of Nodes with edges: 16
+	Maximal out degree (out-hub) : 3
+	Maximal in degree (in-hub) : 3
+	Roots num: 4 Leaves num: 4
+	Single Edges num: 19 Mutual Edges num: 0
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 21
+	Number of random networks generated : 100
+	Random networks generation method: Switches
+	Num of Switches range: 100.0-200.0, Success switches Ratio:0.652+-0.01
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 1 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+38	5	0.7+-0.8	5.02	0.000	4	238.10
+
+0 1 1 
+0 0 1 
+0 0 0 
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	3	7.3+-0.8	-5.02	1.000	142.86	1
+
+12	10	13.8+-1.5	-2.62	0.980	476.19	2
+
+14	0	0.0+-0.0	888888.00	0.000	0.00	0
+
+36	3	7.3+-0.8	-5.02	1.000	142.86	2
+
+38	5	0.7+-0.8	5.02	0.000	238.10	4
+
+46	0	0.0+-0.0	888888.00	0.000	0.00	0
+
+74	0	0.0+-0.0	888888.00	0.000	0.00	0
+
+78	0	0.0+-0.0	888888.00	0.000	0.00	0
+
+98	0	0.1+-0.4	-0.39	0.140	0.00	0
+
+102	0	0.0+-0.0	888888.00	0.000	0.00	0
+
+108	0	0.0+-0.0	888888.00	0.000	0.00	0
+
+110	0	0.0+-0.0	888888.00	0.000	0.00	0
+
+238	0	0.0+-0.0	888888.00	0.000	0.00	0
+
+
+
+ (Application total runtime was:    0.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.0 seconds.)

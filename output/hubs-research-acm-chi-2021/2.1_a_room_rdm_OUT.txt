@@ -1,0 +1,77 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: mfinder1.2/data/2.1_a_room.txt
+	Network type: Directed
+	Num of Nodes: 7 Num of Edges: 52
+	Num of Nodes with edges: 7
+	Maximal out degree (out-hub) : 7
+	Maximal in degree (in-hub) : 7
+	Roots num: 0 Leaves num: 0
+	Single Edges num: 0 Mutual Edges num: 19
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 66
+	Number of random networks generated : 100
+	Random networks generation method: Switches
+	Num of Switches range: 100.0-200.0, Success switches Ratio:0.014+-0.00
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 0 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	0	0.0+-0.0	888888	1.000	0.00	0
+
+12	0	0.0+-0.0	888888	1.000	0.00	0
+
+14	0	0.4+-0.5	-0.81	1.000	0.00	0
+
+36	4	0.0+-0.0	888888	0.000	60.15	1
+
+38	0	0.3+-0.5	-0.65	1.000	0.00	0
+
+46	29	8.0+-0.7	29.04	0.000	428.57	1
+
+74	0	0.4+-0.5	-0.81	1.000	0.00	0
+
+78	8	1.9+-2.4	2.52	0.030	120.30	1
+
+98	0	0.1+-0.3	-0.35	1.000	0.00	0
+
+102	0	3.9+-1.8	-2.12	1.000	0.00	0
+
+108	0	0.3+-0.4	-0.61	1.000	0.00	0
+
+110	0	22.8+-2.7	-8.39	1.000	0.00	0
+
+238	26	23.0+-1.5	2.01	0.030	390.98	2
+
+
+
+ (Application total runtime was:    1.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.0 seconds.)
